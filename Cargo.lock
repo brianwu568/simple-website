@@ -168,6 +168,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "brians_personal_website"
+version = "0.1.0"
+dependencies = [
+ "markdown",
+ "rocket",
+ "rocket_contrib",
+ "serde",
+ "url-escape",
+ "uuid 1.4.1",
+ "walkdir",
+]
+
+[[package]]
 name = "bumpalo"
 version = "3.13.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -543,19 +556,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f31827a206f56af32e590ba56d5d2d085f558508192593743f16b2306495269f"
 dependencies = [
  "cc",
-]
-
-[[package]]
-name = "iankim"
-version = "0.1.0"
-dependencies = [
- "markdown",
- "rocket",
- "rocket_contrib",
- "serde",
- "url-escape",
- "uuid 1.4.1",
- "walkdir",
 ]
 
 [[package]]
