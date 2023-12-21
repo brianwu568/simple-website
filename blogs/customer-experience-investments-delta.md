@@ -1,4 +1,4 @@
-# Customer Experience Innovations and Investment Drive Satisfaction: A Case Study of Delta Air Lines
+# Customer Experience Innovations and Investment Drive Satisfaction
 
 ## Introduction
 

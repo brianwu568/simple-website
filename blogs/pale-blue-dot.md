@@ -1,4 +1,4 @@
-# Pale Blue Dot: A Contention for Why We Should Explore Space for the Greater Good of Humanity
+# A Contention for Why We Should Explore Space for the Greater Good of Humanity
 
 ## Introduction
 
