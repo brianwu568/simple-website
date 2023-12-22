@@ -1,0 +1,33 @@
+# Portfolio Construction: Laying the Foundation for the Future of Construction Tech
+
+## Introduction
+
+For those of you who are new to Venture Capital, you may be under the impression that all of the money in the industry is being gobbled up by the large Silicon Valley companies seeking to create the “next Instagram” or the “next Google,” or some obscure, stealth DeepTech moonshot startup working on something seemingly impossible given the current limits of technology.
+
+But the reality is, a vast majority of Venture Capital does not go into these companies — in fact, Venture Capital itself is just the act of investing into startups, a specific asset class under private companies. And not all startups are striving to become the next Google or Facebook — in fact, many grow to become very successful companies (even despite the low odds of success within the industry). There are many problems that I believe can be best be solved through venture-funding startups, and the Construction Tech industry is one of them.
+
+## Why Construction?
+
+Construction is the unsexy, often invisible cornerstone of modern society. In the same way that we don’t think twice about Facebook’s availability or the robustness of the energy grid (until it fails that is), the importance and impact of construction is hidden away from the public view but is vital to daily life.
+
+Despite Construction being a $14 Trillion industry globally (making it one of the world’s largest), what would you think if I told you that Construction is one of the most antiquated in the world?
+
+Indeed, many of the processes currently even employed in modern Construction have not been touched by technology. A significant portion of projects are still managed through word documents constantly sent back and forth via emails. Cost estimations and timelines are still being computed either by hand or in excel. Workers order materials and communicate with each other individually through calling each other on their cell phones. No wonder why many modern Construction Tech projects are often delayed and/or run over budget — the processes that defined the Construction industry of yesteryear simply are not fit for our Construction needs today.
+
+While Romulus Capital got its origins as a scrappy dorm-room venture fund backing companies in a wide variety of industries while striving to be the lead investors in as many deals as possible, we only came to recognize the impact that technology could have on Construction beginning in 2015. That was when we first met the founders of a small midwestern startup known as EquipmentShare, brothers Willy and Jabbok Schlacks, who wanted to solve a problem in Construction akin to what Uber, Lyft, and AirBnb were all attempting around this time period: **the problem of excess capacity**.
+
+On many jobsites, one thing that caught the attention of the Schlacks brothers were that a lot of equipment was sitting idle in between jobs. Since procuring these assets are sometimes one of the most expensive areas of the Construction process, EquipmentShare wanted to find a way such that this equipment could be shared among contractors. Much like how Uber + Lyft solve the problem of “excessive capacity” in cars and how AirBnb solves the problem of “excessive capacity” in properties, EquipmentShare solves the “excess capacity” problem of Construction equipment by providing a platform that allows contractors to share use of their equipment with their peers.
+
+We believed in EquipmentShare’s vision so much that we took a bet on them and wrote a check for them right as they came out of Y Combinator. In fact, we believed in them so much that we wrote them a few more — we led their Seed + Series A rounds, and co-led their Series B with Insight Venture Partners. Today, EquipmentShare recently raised a Series D round led by Tiger Global (in simple terms, a large growth VC known for throwing term sheets around everywhere) and achieved a $2B+ valuation, making it the first Unicorn company (a company with valuation >$1B) that Romulus has produced.
+
+With EquipmentShare being one of our resounding successes, we began to realize that similar opportunities existed in Construction. If EquipmentShare could help bring one part of the Construction industry into the 21st century, then other Construction Tech (ConTech) startups could certainly do the same, too. Construction has the unique luxury of being a massive industry that has traditionally resisted technological developments, which makes us believe in opportunities to help modernize it today.
+
+But before we dive deeper, it’s important to understand why Construction has refused to digitize over the last several decades, and from my perspective there are several reasons why this is the case. First and foremost, as the old adage goes, “if it ain’t broke, why bother fixing it?” Many players currently in Construction believe that the industry isn’t that broken — if almost every building that you think of has been built using these traditional methods that have been in existence for the last several decades, then there truly is no motivation to adopt a shiny, new, and untested method.
+
+On a related note, one other trait of the Construction industry is that for new technology that seeks to disrupt a traditional industry, it is almost always the case that the technology is going to be more expensive and less smooth/efficient to adopt first — but over time, the technology adoption curve evolves such that this technology becomes a more efficient and cheaper method compared to the incumbent, and as such has the potential to drive out and replace the incumbent solution. Construction players are reluctant to adopt new technologies precisely due to this risk involved — they don’t want to be the one suffering losses just because they adopted a new, untested technology.
+
+However, despite all of this, my team and I at Romulus Capital continue to believe in the potential that the Construction industry would be disrupted during this decade. I personally believe that the ConTech startups we’ve invested in, and will continue to invest in the future, will help us understand and quantify the massive amount of data that is being collected from all aspects of the industry.
+
+Much like how CRM changed sales in the 2000s, and how digitized patient records changed healthcare in the 2010s, I believe that this aggregation of data in the Construction industry (which we refer to as a data lake) is going to be what brings the industry into the 21st Century, once and for all.
+
+But in order to get there, we’ll have to help the Construction industry build (pun very much intended).
