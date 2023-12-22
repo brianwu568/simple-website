@@ -52,7 +52,7 @@ After what seemed like too short of a Summer, it was time to return to school ag
 
 This quarter was one in which I experienced many fundamental lessons and realized the value of staying true to those who really care about you. What most people don’t know about me during this quarter is that it was uncomfortable. I have had to grow in ways I could never have imagined, but thankfully, I was never alone during this process. These thoughts invoke a Tweet I recently saw, which stated that “everything is your fault” — in that no matter the situation (and even if you think it has nothing to do with yourself), there is always a way to reflect and grow.
 
-![alt allometry](https://imgur.com/a/3NCU0dd "A lesson I learned in 2021: everything is ur fault. Anytime something bad happens always frame it as "What could I have done differently to avoid this?")
+![Imgur](https://i.ibb.co/ZmHY3TJ/Screenshot-2023-12-21-at-5-55-18-PM.png)
 
 The first lesson that I learned was to **be excited, but never too eager**. There were so many moments in which I found something exciting, and wanted to jump as much as I could on the idea without holding back. In conversation, this translated to me being extremely eager to cut into conversation and offer my opinions and thoughts on a topic that I cared about, while disengaging at other times when it was clear that I was not interested.
 
@@ -66,7 +66,7 @@ I have many people to thank throughout this journey, but one person I’d especi
 
 Inspired by Ndamukong Suh, I’m not going to set New Year’s Resolutions for myself. Rather, I’m going to list out three key words that I want every decision, every relationship, and every day in 2022 to be governed by.
 
-![alt allometry](https://imgur.com/a/rbnazM3 "Instead of a New Years resolution, try a word of the year.")
+![Imgur](https://i.ibb.co/WDH3LtR/Screenshot-2023-12-21-at-5-55-05-PM.png)
 
 1. Kindness
 2. Connection
