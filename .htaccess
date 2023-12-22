@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^writings\.bwu\.ai$
+RewriteRule ^(.*)$ https://bwu.ai/blog/$1 [L,R=301]
