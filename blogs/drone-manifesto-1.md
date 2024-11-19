@@ -1,4 +1,4 @@
-### The Drone Manifesto, Part I
+# The Drone Manifesto, Part I
 
 This document is a work-in-progress thesis representing the evolution of my thoughts on Drone design, manufacturing, and commercial applications.
 
